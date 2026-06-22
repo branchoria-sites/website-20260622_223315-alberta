@@ -1,0 +1,4236 @@
+{
+  "generated_at": "2026-06-22T22:27:09",
+  "passed": true,
+  "baseline": {
+    "article_pages": 351,
+    "amazon_specific_pages": 273,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 273,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Alberta_1dc61b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_alberta_sighting_wav_d77d81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_fireball_wav_3610a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_satellite_ca_dc4088": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_ufo_report_d_70e091": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_alberta_sighting_wav_d77d81_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_cold_lake_aviation_041017": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_cold_lake_aviation_041017_cold_lake_airspace_f_913fb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_cold_lake_aviation_041017_cold_lake_sonic_boom_58ec69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_cold_lake_aviation_041017_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_cold_lake_aviation_041017_maple_flag_ufo_confu_2e6136": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_duhamel_landing_mark_e3bd5b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_duhamel_landing_mark_e3bd5b_duhamel_official_pro_a07df8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_duhamel_landing_mark_e3bd5b_duhamel_trace_eviden_e489e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_duhamel_landing_mark_e3bd5b_duhamel_tyre_or_land_dce61f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_duhamel_landing_mark_e3bd5b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_official_reporting_r_15e630": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_official_reporting_r_15e630_alberta_pilot_cadors_0ae2a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_official_reporting_r_15e630_alberta_rcmp_ufo_cal_00b41f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_official_reporting_r_15e630_canadian_federal_ufo_8fb0dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_official_reporting_r_15e630_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_st_paul_landing_pad_392e9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_st_paul_landing_pad_392e9d_centennial_ufo_openi_eafcd3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_st_paul_landing_pad_392e9d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_st_paul_landing_pad_392e9d_st_paul_myth_reality_86a502": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_st_paul_landing_pad_392e9d_ufo_visitor_centre_163151": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb_bc_airport_misreadin_edd3e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb_pilot_report_chain_5e2e92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb_terrace_radar_case_f08d0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_official_ufo_file_022f26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_rcmp_ufo_records_2459cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_ufo_report_routes_9aa949": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_unresolved_ufo_fi_2ee522": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_official_ufo_file_022f26_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_interior_northern_cl_981f90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_interior_northern_cl_981f90_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_interior_northern_cl_981f90_meldrum_creek_saucer_fec037": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_interior_northern_cl_981f90_prince_george_1969_a_d8c3a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_interior_northern_cl_981f90_williams_lake_triang_1ab974": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_island_rep_557bc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_island_rep_557bc8_hannah_mcroberts_pho_f43534": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_island_rep_557bc8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_island_rep_557bc8_starlink_island_ufo_b57e32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_island_rep_557bc8_victoria_harbour_lig_a2e743": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_saucer_era_81af84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_saucer_era_81af84_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_saucer_era_81af84_july_1965_vancouver_660f0f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_saucer_era_81af84_vancouver_saucer_clu_cd2870": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_saucer_era_81af84_vancouver_ufo_secrec_f3c23e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_aviation_ufo_records_4967d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_aviation_ufo_records_4967d3_cadors_safety_record_5e34e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_aviation_ufo_records_4967d3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_aviation_ufo_records_4967d3_prairie_lights_starl_a49e7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_aviation_ufo_records_4967d3_westjet_object_repor_3125d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_charlie_red_star_04b1e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_charlie_red_star_04b1e1_carman_sky_watching_d3d204": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_charlie_red_star_04b1e1_charlie_records_phot_5235ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_charlie_red_star_04b1e1_diemert_carman_first_380754": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_charlie_red_star_04b1e1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_falcon_lake_case_34721b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_falcon_lake_case_34721b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_falcon_lake_case_34721b_landing_site_doubts_d95b4b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_falcon_lake_case_34721b_michalak_burns_illne_39c954": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_falcon_lake_case_34721b_radioactive_samples_6461c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_manitoba_sighting_pa_d4edeb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_manitoba_sighting_pa_d4edeb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_manitoba_sighting_pa_d4edeb_lynn_lake_lights_2c954b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_manitoba_sighting_pa_d4edeb_manitoba_night_light_96f5a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_manitoba_sighting_pa_d4edeb_sighting_duration_cl_c03105": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_winnipeg_ufo_archive_1dc78b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_canadian_ufo_survey_2dcebe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_federal_ufo_files_wi_68e156": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_university_manitoba_49a22c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1_blackwood_light_exch_288ef7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1_clarenville_optical_497702": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1_clarenville_public_m_70750b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_bethune_retelling_pr_39e200": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_gander_airspace_risk_4a023d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_gander_moon_reflecti_ec2f01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_goose_bay_mixed_traf_06a5c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_goose_bay_norad_dril_0caa89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_labrador_radar_recor_b36bf9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6_contrail_ocean_launc_64296d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6_official_denial_gap_0cd9a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6_stewart_photo_missil_375f10": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_official_ufo_records_56a07f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_official_ufo_records_56a07f_cadors_ufo_misidenti_7371d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_official_ufo_records_56a07f_clarenville_rcmp_rec_72aad2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_official_ufo_records_56a07f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_official_ufo_records_56a07f_sky_canada_reporting_8c5416": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_campbellton_triangle_2693eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_campbellton_triangle_2693eb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_campbellton_triangle_2693eb_sugarloaf_1971_1989_be94d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_campbellton_triangle_2693eb_sugarloaf_memory_anc_53d8e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_campbellton_triangle_2693eb_van_horne_1989_evide_382e16": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_federal_records_nb_1ba02c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_federal_records_nb_1ba02c_boiestown_lights_198_3dc0e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_federal_records_nb_1ba02c_hampton_1981_rcmp_fb84b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_federal_records_nb_1ba02c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_federal_records_nb_1ba02c_nb_federal_archive_r_77fce9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_dearborn_witness_mem_50f0ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_lint_farm_field_mark_962c0d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_missing_official_fil_cfb4f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_stanton_friedman_fre_c7fb32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_stanton_friedman_fre_c7fb32_fredericton_roswell_acf6c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_stanton_friedman_fre_c7fb32_friedman_archive_hub_6bec6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_stanton_friedman_fre_c7fb32_friedman_public_memo_b40553": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_stanton_friedman_fre_c7fb32_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_west_bathurst_follow_5a53b5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_doucet_sighting_trai_62049e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_parachute_flare_expl_8007e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_rcmp_burke_gaffney_r_373d68": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_clan_lake_incident_31ea5a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_clan_lake_incident_31ea5a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_clan_lake_incident_31ea5a_rcmp_search_limits_483f33": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_clan_lake_incident_31ea5a_reed_channel_evidenc_fe67ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_clan_lake_incident_31ea5a_witness_rotating_obj_3ef0ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_northern_defence_con_b277fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_northern_defence_con_b277fc_dew_line_ufo_rumours_9eba1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_northern_defence_con_b277fc_fort_smith_wildfire_8db4aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_northern_defence_con_b277fc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_northern_defence_con_b277fc_north_warning_radar_bdc89e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_official_reporting_t_3b3473": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_official_reporting_t_3b3473_aviation_ufo_reporti_f13b87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_official_reporting_t_3b3473_canadian_ufo_file_pa_41e18d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_official_reporting_t_3b3473_clan_lake_rcmp_recor_8ef9fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_official_reporting_t_3b3473_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_ordinary_explanation_a805d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_ordinary_explanation_a805d0_aurora_ufo_mixups_83e558": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_ordinary_explanation_a805d0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_ordinary_explanation_a805d0_remote_aircraft_ligh_e926d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_ordinary_explanation_a805d0_weather_sighting_tra_43ad32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_yellowknife_pilot_li_f1d293": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_yellowknife_pilot_li_f1d293_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_yellowknife_pilot_li_f1d293_yellowknife_aviation_4ecbe7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_yellowknife_pilot_li_f1d293_yellowknife_no_tcas_e67a79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_yellowknife_pilot_li_f1d293_yellowknife_possible_7c08bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_canadian_ufo_archive_1cacc9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_canadian_ufo_archive_1cacc9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_canadian_ufo_archive_1cacc9_lac_search_traps_ns_f33af7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_canadian_ufo_archive_1cacc9_nrc_ns_sightings_197fd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_canadian_ufo_archive_1cacc9_shag_harbour_paper_t_da2ed7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_coastal_sky_explanat_4f6e15": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_coastal_sky_explanat_4f6e15_aircraft_sea_descent_95caea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_coastal_sky_explanat_4f6e15_horizon_mirages_star_e49dce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_coastal_sky_explanat_4f6e15_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_coastal_sky_explanat_4f6e15_marine_navigation_li_258bd7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_modern_ns_ufo_report_4a2268": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_modern_ns_ufo_report_4a2268_canadian_ufo_survey_934d55": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_modern_ns_ufo_report_4a2268_facebook_sighting_re_db6889": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_modern_ns_ufo_report_4a2268_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_modern_ns_ufo_report_4a2268_nova_scotia_overrepo_a2e4ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shag_harbour_evidenc_59dc22": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shag_harbour_evidenc_59dc22_canadian_archive_unc_dea6a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shag_harbour_evidenc_59dc22_first_crash_reports_d60cb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shag_harbour_evidenc_59dc22_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shag_harbour_evidenc_59dc22_official_search_no_w_4191f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shelburne_underwater_98cfba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shelburne_underwater_98cfba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shelburne_underwater_98cfba_shelburne_1960_split_fa5639": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shelburne_underwater_98cfba_shelburne_testimony_205512": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shelburne_underwater_98cfba_shelburne_underwater_a16f3f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_baffin_pilot_sightin_526968": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_baffin_pilot_sightin_526968_baffin_light_explana_b93f7e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_baffin_pilot_sightin_526968_cadors_ufo_label_6be506": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_baffin_pilot_sightin_526968_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_baffin_pilot_sightin_526968_nolinor_pilot_report_6d8060": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_cadors_ufo_meaning_110785": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_cadors_ufo_meaning_110785_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_cadors_ufo_meaning_110785_norad_notification_m_416649": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_cadors_ufo_meaning_110785_pilot_sighting_repor_39d036": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_cadors_ufo_meaning_110785_preliminary_cadors_l_959ac9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_northern_airspace_co_cecef7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_northern_airspace_co_cecef7_frobisher_bay_air_ba_2ea975": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_northern_airspace_co_cecef7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_northern_airspace_co_cecef7_norad_modernisation_7485b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_northern_airspace_co_cecef7_north_warning_radar_bdc89e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_older_eastern_arctic_cd2630": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_older_eastern_arctic_cd2630_frobisher_bay_1968_6e89b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_older_eastern_arctic_cd2630_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_older_eastern_arctic_cd2630_nrc_non_meteoric_fil_c08dc4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_older_eastern_arctic_cd2630_old_nwt_labels_568c56": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_sparse_nunavut_repor_5ae163": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_sparse_nunavut_repor_5ae163_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_sparse_nunavut_repor_5ae163_nunavut_2006_firebal_ae70cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_sparse_nunavut_repor_5ae163_nunavut_archive_gaps_4cd5e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_sparse_nunavut_repor_5ae163_remote_report_loss_0bea18": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_falconbridge_1975_cc129d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_falconbridge_1975_cc129d_falconbridge_explana_56ccd3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_falconbridge_1975_cc129d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_falconbridge_1975_cc129d_major_oliver_photos_ef10b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_falconbridge_1975_cc129d_norad_logs_scramble_423c1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_federal_archives_b73200": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_federal_archives_b73200_cadors_ontario_uap_r_536c0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_federal_archives_b73200_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_federal_archives_b73200_nrc_non_meteoritic_f_7c103e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_federal_archives_b73200_ontario_ufo_archive_60da80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_moonbeam_folklore_941753": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_moonbeam_folklore_941753_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_moonbeam_folklore_941753_moonbeam_name_folklo_8ec89c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_moonbeam_folklore_941753_moonbeam_saucer_stop_0a0da5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_moonbeam_folklore_941753_moonbeam_sightings_e_c90693": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_ontario_ufo_reports_92ba01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_ontario_ufo_reports_92ba01_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_ontario_ufo_reports_92ba01_ontario_nocturnal_li_07a87f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_ontario_ufo_reports_92ba01_ontario_raw_counts_780743": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_ontario_ufo_reports_92ba01_toronto_city_counts_b147cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_project_magnet_ottaw_b5e5b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_project_magnet_ottaw_b5e5b1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_project_magnet_ottaw_b5e5b1_magnet_second_storey_37a157": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_project_magnet_ottaw_b5e5b1_shirley_bay_trace_98ba04": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_project_magnet_ottaw_b5e5b1_smith_magnetic_theor_20a798": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_canadian_ufo_record_cf3107": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_ebenezer_landing_cla_8e4218": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_maritime_fireball_co_cb977e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_kensington_video_f32f34": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_kensington_video_f32f34_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_kensington_video_f32f34_kensington_ordinary_fe45be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_kensington_video_f32f34_mufon_kensington_evi_9f4dbb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_kensington_video_f32f34_twin_shores_horizon_a45ff5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_official_records_day_5c6c8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_official_records_day_5c6c8a_days_corner_witness_80745e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_official_records_day_5c6c8a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_official_records_day_5c6c8a_nrc_pei_archive_gaps_c7425c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_official_records_day_5c6c8a_rcmp_negative_patrol_75f5c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_pei_misidentificatio_5b877e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_pei_misidentificatio_5b877e_charlottetown_aircra_425486": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_pei_misidentificatio_5b877e_fog_mirage_false_hei_8672f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_pei_misidentificatio_5b877e_harbour_lights_hover_934508": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_pei_misidentificatio_5b877e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_summerside_1947_87f591": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_summerside_1947_87f591_canadian_press_sauce_81e216": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_summerside_1947_87f591_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_summerside_1947_87f591_north_bedeque_witnes_3137ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_summerside_1947_87f591_summerside_aviation_c5f84c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_bonaventure_sighting_8574bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_bonaventure_sighting_8574bc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_bonaventure_sighting_8574bc_light_pillar_explana_959cb7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_bonaventure_sighting_8574bc_police_radar_checks_b21007": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_bonaventure_sighting_8574bc_rooftop_witness_time_40b506": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_french_ufo_culture_c14935": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_french_ufo_culture_c14935_bonaventure_french_r_9501ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_french_ufo_culture_c14935_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_french_ufo_culture_c14935_quebec_sceptic_debat_6c3b4d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_french_ufo_culture_c14935_quebec_ufo_archives_e295a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_official_canadian_fi_422229": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_official_canadian_fi_422229_foster_1965_defence_5f4950": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_official_canadian_fi_422229_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_official_canadian_fi_422229_quebec_archive_gaps_039e30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_official_canadian_fi_422229_quebec_aviation_repo_1446a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_light_explana_929266": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_light_explana_929266_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_light_explana_929266_montreal_helicopter_770271": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_light_explana_929266_planets_fireballs_qu_6b8d4b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_light_explana_929266_starlink_quebec_skie_f8c7c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_report_patter_050d5d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_report_patter_050d5d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_report_patter_050d5d_montreal_gatineau_uf_d3a814": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_report_patter_050d5d_quebec_2015_ufo_spik_6b2121": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_report_patter_050d5d_quebec_ufo_insuffici_2d4a6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_canadian_ufo_records_38130b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_canadian_ufo_records_38130b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_canadian_ufo_records_38130b_rural_sightings_defe_a50f32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_canadian_ufo_records_38130b_saskatchewan_aviatio_2c902b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_canadian_ufo_records_38130b_saskatchewan_ufo_arc_a7be98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_langenburg_event_4acb88": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_langenburg_event_4acb88_fuhr_witness_account_b360f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_langenburg_event_4acb88_grass_circles_proof_3d2360": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_langenburg_event_4acb88_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_langenburg_event_4acb88_rcmp_involvement_lim_30d78e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_pilot_report_38d18f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_pilot_report_38d18f_cadors_safety_record_051b2f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_pilot_report_38d18f_high_altitude_light_c9d2b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_pilot_report_38d18f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_pilot_report_38d18f_jan_2024_triangle_li_1ddac0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_sighting_clu_40b8d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_jackfish_lake_lights_5ebe5f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_prairie_pilot_report_38d18f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_saskatoon_regina_hub_e2c245": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_saskatchewan_ufo_exp_312578": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_saskatchewan_ufo_exp_312578_fireball_meteor_repo_56cd72": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_saskatchewan_ufo_exp_312578_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_saskatchewan_ufo_exp_312578_sky_canada_public_ro_8bd35b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_saskatchewan_ufo_exp_312578_starlink_sky_confusi_b317ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_klondike_highway_199_77d7f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_klondike_highway_199_77d7f3_cosmos_reentry_expla_1e7fed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_klondike_highway_199_77d7f3_fox_lake_witnesses_8f274f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_klondike_highway_199_77d7f3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_klondike_highway_199_77d7f3_pelly_corridor_timel_acee2c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_norad_yukon_2023_43c173": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_norad_yukon_2023_43c173_altitude_flight_risk_22bb7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_norad_yukon_2023_43c173_hobby_balloon_theory_bddb30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_norad_yukon_2023_43c173_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_norad_yukon_2023_43c173_yukon_debris_search_266b26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_northern_sky_explana_5ca616": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_northern_sky_explana_5ca616_aurora_mistaken_obje_54f47f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_northern_sky_explana_5ca616_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_northern_sky_explana_5ca616_satellite_rocket_spi_31b66f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_northern_sky_explana_5ca616_tagish_lake_fireball_140c9b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_tagish_lake_fireball_140c9b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_tagish_lake_fireball_140c9b_booms_trails_0b6c24": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_tagish_lake_fireball_140c9b_frozen_fragments_e7d497": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_tagish_lake_fireball_140c9b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_tagish_lake_fireball_140c9b_instrument_records_69343f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_yukon_ufo_archives_957821": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_yukon_ufo_archives_957821_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_yukon_ufo_archives_957821_old_crow_remote_witn_d47fa1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_yukon_ufo_archives_957821_ufobc_yukon_missing_d5776d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_yukon_ufo_archives_957821_whitehorse_workshop_2908dd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "current": {
+    "article_pages": 351,
+    "amazon_specific_pages": 273,
+    "amazon_fallback_pages": 0,
+    "ebay_specific_pages": 273,
+    "ebay_fallback_pages": 0,
+    "pages": {
+      "Alberta_1dc61b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_alberta_sighting_wav_d77d81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_fireball_wav_3610a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_satellite_ca_dc4088": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_alberta_sighting_wav_d77d81_alberta_ufo_report_d_70e091": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_alberta_sighting_wav_d77d81_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_cold_lake_aviation_041017": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_cold_lake_aviation_041017_cold_lake_airspace_f_913fb3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_cold_lake_aviation_041017_cold_lake_sonic_boom_58ec69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_cold_lake_aviation_041017_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_cold_lake_aviation_041017_maple_flag_ufo_confu_2e6136": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_duhamel_landing_mark_e3bd5b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_duhamel_landing_mark_e3bd5b_duhamel_official_pro_a07df8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_duhamel_landing_mark_e3bd5b_duhamel_trace_eviden_e489e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_duhamel_landing_mark_e3bd5b_duhamel_tyre_or_land_dce61f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_duhamel_landing_mark_e3bd5b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_official_reporting_r_15e630": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_official_reporting_r_15e630_alberta_pilot_cadors_0ae2a0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_official_reporting_r_15e630_alberta_rcmp_ufo_cal_00b41f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_official_reporting_r_15e630_canadian_federal_ufo_8fb0dc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_official_reporting_r_15e630_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_st_paul_landing_pad_392e9d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_st_paul_landing_pad_392e9d_centennial_ufo_openi_eafcd3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_st_paul_landing_pad_392e9d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_st_paul_landing_pad_392e9d_st_paul_myth_reality_86a502": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Alberta_1dc61b_st_paul_landing_pad_392e9d_ufo_visitor_centre_163151": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb_bc_airport_misreadin_edd3e9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb_pilot_report_chain_5e2e92": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_aviation_ufo_repo_5128eb_terrace_radar_case_f08d0c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_official_ufo_file_022f26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_rcmp_ufo_records_2459cc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_ufo_report_routes_9aa949": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_official_ufo_file_022f26_bc_unresolved_ufo_fi_2ee522": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_bc_official_ufo_file_022f26_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_interior_northern_cl_981f90": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_interior_northern_cl_981f90_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_interior_northern_cl_981f90_meldrum_creek_saucer_fec037": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_interior_northern_cl_981f90_prince_george_1969_a_d8c3a3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_interior_northern_cl_981f90_williams_lake_triang_1ab974": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_island_rep_557bc8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_island_rep_557bc8_hannah_mcroberts_pho_f43534": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_island_rep_557bc8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_island_rep_557bc8_starlink_island_ufo_b57e32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_island_rep_557bc8_victoria_harbour_lig_a2e743": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_saucer_era_81af84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_saucer_era_81af84_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_saucer_era_81af84_july_1965_vancouver_660f0f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_saucer_era_81af84_vancouver_saucer_clu_cd2870": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "British_Columbia_2f7c63_vancouver_saucer_era_81af84_vancouver_ufo_secrec_f3c23e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_aviation_ufo_records_4967d3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_aviation_ufo_records_4967d3_cadors_safety_record_5e34e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_aviation_ufo_records_4967d3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_aviation_ufo_records_4967d3_prairie_lights_starl_a49e7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_aviation_ufo_records_4967d3_westjet_object_repor_3125d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_charlie_red_star_04b1e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_charlie_red_star_04b1e1_carman_sky_watching_d3d204": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_charlie_red_star_04b1e1_charlie_records_phot_5235ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_charlie_red_star_04b1e1_diemert_carman_first_380754": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_charlie_red_star_04b1e1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_falcon_lake_case_34721b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_falcon_lake_case_34721b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_falcon_lake_case_34721b_landing_site_doubts_d95b4b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_falcon_lake_case_34721b_michalak_burns_illne_39c954": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_falcon_lake_case_34721b_radioactive_samples_6461c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_manitoba_sighting_pa_d4edeb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_manitoba_sighting_pa_d4edeb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_manitoba_sighting_pa_d4edeb_lynn_lake_lights_2c954b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_manitoba_sighting_pa_d4edeb_manitoba_night_light_96f5a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_manitoba_sighting_pa_d4edeb_sighting_duration_cl_c03105": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_winnipeg_ufo_archive_1dc78b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_canadian_ufo_survey_2dcebe": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_federal_ufo_files_wi_68e156": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Manitoba_c1a386_winnipeg_ufo_archive_1dc78b_university_manitoba_49a22c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1_blackwood_light_exch_288ef7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1_clarenville_optical_497702": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1_clarenville_public_m_70750b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_clarenville_rcmp_cas_6d96c1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_bethune_retelling_pr_39e200": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_gander_airspace_risk_4a023d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_gander_moon_reflecti_ec2f01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_gander_aircrew_repor_937774_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_goose_bay_mixed_traf_06a5c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_goose_bay_norad_dril_0caa89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_goose_bay_norad_bd66ab_labrador_radar_recor_b36bf9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6_contrail_ocean_launc_64296d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6_official_denial_gap_0cd9a7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_harbour_mille_object_139eb6_stewart_photo_missil_375f10": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_official_ufo_records_56a07f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_official_ufo_records_56a07f_cadors_ufo_misidenti_7371d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_official_ufo_records_56a07f_clarenville_rcmp_rec_72aad2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_official_ufo_records_56a07f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Newfoundland_and_Lab_16bd11_official_ufo_records_56a07f_sky_canada_reporting_8c5416": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_campbellton_triangle_2693eb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_campbellton_triangle_2693eb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_campbellton_triangle_2693eb_sugarloaf_1971_1989_be94d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_campbellton_triangle_2693eb_sugarloaf_memory_anc_53d8e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_campbellton_triangle_2693eb_van_horne_1989_evide_382e16": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_federal_records_nb_1ba02c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_federal_records_nb_1ba02c_boiestown_lights_198_3dc0e3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_federal_records_nb_1ba02c_hampton_1981_rcmp_fb84b4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_federal_records_nb_1ba02c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_federal_records_nb_1ba02c_nb_federal_archive_r_77fce9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_dearborn_witness_mem_50f0ad": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_lint_farm_field_mark_962c0d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_mcleod_hill_trace_cl_de2949_missing_official_fil_cfb4f4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_stanton_friedman_fre_c7fb32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_stanton_friedman_fre_c7fb32_fredericton_roswell_acf6c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_stanton_friedman_fre_c7fb32_friedman_archive_hub_6bec6e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_stanton_friedman_fre_c7fb32_friedman_public_memo_b40553": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_stanton_friedman_fre_c7fb32_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_west_bathurst_follow_5a53b5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_doucet_sighting_trai_62049e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_parachute_flare_expl_8007e0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "New_Brunswick_cd41a9_west_bathurst_follow_5a53b5_rcmp_burke_gaffney_r_373d68": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_clan_lake_incident_31ea5a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_clan_lake_incident_31ea5a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_clan_lake_incident_31ea5a_rcmp_search_limits_483f33": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_clan_lake_incident_31ea5a_reed_channel_evidenc_fe67ef": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_clan_lake_incident_31ea5a_witness_rotating_obj_3ef0ca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_northern_defence_con_b277fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_northern_defence_con_b277fc_dew_line_ufo_rumours_9eba1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_northern_defence_con_b277fc_fort_smith_wildfire_8db4aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_northern_defence_con_b277fc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_northern_defence_con_b277fc_north_warning_radar_bdc89e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_official_reporting_t_3b3473": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_official_reporting_t_3b3473_aviation_ufo_reporti_f13b87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_official_reporting_t_3b3473_canadian_ufo_file_pa_41e18d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_official_reporting_t_3b3473_clan_lake_rcmp_recor_8ef9fc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_official_reporting_t_3b3473_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_ordinary_explanation_a805d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_ordinary_explanation_a805d0_aurora_ufo_mixups_83e558": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_ordinary_explanation_a805d0_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_ordinary_explanation_a805d0_remote_aircraft_ligh_e926d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_ordinary_explanation_a805d0_weather_sighting_tra_43ad32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_yellowknife_pilot_li_f1d293": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_yellowknife_pilot_li_f1d293_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_yellowknife_pilot_li_f1d293_yellowknife_aviation_4ecbe7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_yellowknife_pilot_li_f1d293_yellowknife_no_tcas_e67a79": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Northwest_Territorie_386265_yellowknife_pilot_li_f1d293_yellowknife_possible_7c08bb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_canadian_ufo_archive_1cacc9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_canadian_ufo_archive_1cacc9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_canadian_ufo_archive_1cacc9_lac_search_traps_ns_f33af7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_canadian_ufo_archive_1cacc9_nrc_ns_sightings_197fd4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_canadian_ufo_archive_1cacc9_shag_harbour_paper_t_da2ed7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_coastal_sky_explanat_4f6e15": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_coastal_sky_explanat_4f6e15_aircraft_sea_descent_95caea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_coastal_sky_explanat_4f6e15_horizon_mirages_star_e49dce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_coastal_sky_explanat_4f6e15_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_coastal_sky_explanat_4f6e15_marine_navigation_li_258bd7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_modern_ns_ufo_report_4a2268": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_modern_ns_ufo_report_4a2268_canadian_ufo_survey_934d55": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_modern_ns_ufo_report_4a2268_facebook_sighting_re_db6889": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_modern_ns_ufo_report_4a2268_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_modern_ns_ufo_report_4a2268_nova_scotia_overrepo_a2e4ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shag_harbour_evidenc_59dc22": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shag_harbour_evidenc_59dc22_canadian_archive_unc_dea6a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shag_harbour_evidenc_59dc22_first_crash_reports_d60cb0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shag_harbour_evidenc_59dc22_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shag_harbour_evidenc_59dc22_official_search_no_w_4191f5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shelburne_underwater_98cfba": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shelburne_underwater_98cfba_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shelburne_underwater_98cfba_shelburne_1960_split_fa5639": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shelburne_underwater_98cfba_shelburne_testimony_205512": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nova_Scotia_117534_shelburne_underwater_98cfba_shelburne_underwater_a16f3f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_baffin_pilot_sightin_526968": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_baffin_pilot_sightin_526968_baffin_light_explana_b93f7e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_baffin_pilot_sightin_526968_cadors_ufo_label_6be506": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_baffin_pilot_sightin_526968_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_baffin_pilot_sightin_526968_nolinor_pilot_report_6d8060": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_cadors_ufo_meaning_110785": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_cadors_ufo_meaning_110785_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_cadors_ufo_meaning_110785_norad_notification_m_416649": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_cadors_ufo_meaning_110785_pilot_sighting_repor_39d036": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_cadors_ufo_meaning_110785_preliminary_cadors_l_959ac9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_northern_airspace_co_cecef7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_northern_airspace_co_cecef7_frobisher_bay_air_ba_2ea975": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_northern_airspace_co_cecef7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_northern_airspace_co_cecef7_norad_modernisation_7485b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_northern_airspace_co_cecef7_north_warning_radar_bdc89e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_older_eastern_arctic_cd2630": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_older_eastern_arctic_cd2630_frobisher_bay_1968_6e89b9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_older_eastern_arctic_cd2630_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_older_eastern_arctic_cd2630_nrc_non_meteoric_fil_c08dc4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_older_eastern_arctic_cd2630_old_nwt_labels_568c56": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_sparse_nunavut_repor_5ae163": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_sparse_nunavut_repor_5ae163_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_sparse_nunavut_repor_5ae163_nunavut_2006_firebal_ae70cb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_sparse_nunavut_repor_5ae163_nunavut_archive_gaps_4cd5e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nunavut_1ecc65_sparse_nunavut_repor_5ae163_remote_report_loss_0bea18": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_falconbridge_1975_cc129d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_falconbridge_1975_cc129d_falconbridge_explana_56ccd3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_falconbridge_1975_cc129d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_falconbridge_1975_cc129d_major_oliver_photos_ef10b0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_falconbridge_1975_cc129d_norad_logs_scramble_423c1e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_federal_archives_b73200": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_federal_archives_b73200_cadors_ontario_uap_r_536c0b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_federal_archives_b73200_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_federal_archives_b73200_nrc_non_meteoritic_f_7c103e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_federal_archives_b73200_ontario_ufo_archive_60da80": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_moonbeam_folklore_941753": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_moonbeam_folklore_941753_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_moonbeam_folklore_941753_moonbeam_name_folklo_8ec89c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_moonbeam_folklore_941753_moonbeam_saucer_stop_0a0da5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_moonbeam_folklore_941753_moonbeam_sightings_e_c90693": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_ontario_ufo_reports_92ba01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_ontario_ufo_reports_92ba01_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_ontario_ufo_reports_92ba01_ontario_nocturnal_li_07a87f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_ontario_ufo_reports_92ba01_ontario_raw_counts_780743": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_ontario_ufo_reports_92ba01_toronto_city_counts_b147cd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_project_magnet_ottaw_b5e5b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_project_magnet_ottaw_b5e5b1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_project_magnet_ottaw_b5e5b1_magnet_second_storey_37a157": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_project_magnet_ottaw_b5e5b1_shirley_bay_trace_98ba04": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ontario_f9f742_project_magnet_ottaw_b5e5b1_smith_magnetic_theor_20a798": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_canadian_ufo_record_cf3107": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_ebenezer_landing_cla_8e4218": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_ebenezer_landing_cla_8e4218_maritime_fireball_co_cb977e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_kensington_video_f32f34": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_kensington_video_f32f34_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_kensington_video_f32f34_kensington_ordinary_fe45be": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_kensington_video_f32f34_mufon_kensington_evi_9f4dbb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_kensington_video_f32f34_twin_shores_horizon_a45ff5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_official_records_day_5c6c8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_official_records_day_5c6c8a_days_corner_witness_80745e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_official_records_day_5c6c8a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_official_records_day_5c6c8a_nrc_pei_archive_gaps_c7425c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_official_records_day_5c6c8a_rcmp_negative_patrol_75f5c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_pei_misidentificatio_5b877e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_pei_misidentificatio_5b877e_charlottetown_aircra_425486": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_pei_misidentificatio_5b877e_fog_mirage_false_hei_8672f1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_pei_misidentificatio_5b877e_harbour_lights_hover_934508": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_pei_misidentificatio_5b877e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_summerside_1947_87f591": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_summerside_1947_87f591_canadian_press_sauce_81e216": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_summerside_1947_87f591_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_summerside_1947_87f591_north_bedeque_witnes_3137ea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Prince_Edward_Island_9d3219_summerside_1947_87f591_summerside_aviation_c5f84c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_bonaventure_sighting_8574bc": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_bonaventure_sighting_8574bc_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_bonaventure_sighting_8574bc_light_pillar_explana_959cb7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_bonaventure_sighting_8574bc_police_radar_checks_b21007": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_bonaventure_sighting_8574bc_rooftop_witness_time_40b506": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_french_ufo_culture_c14935": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_french_ufo_culture_c14935_bonaventure_french_r_9501ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_french_ufo_culture_c14935_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_french_ufo_culture_c14935_quebec_sceptic_debat_6c3b4d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_french_ufo_culture_c14935_quebec_ufo_archives_e295a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_official_canadian_fi_422229": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_official_canadian_fi_422229_foster_1965_defence_5f4950": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_official_canadian_fi_422229_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_official_canadian_fi_422229_quebec_archive_gaps_039e30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_official_canadian_fi_422229_quebec_aviation_repo_1446a2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_light_explana_929266": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_light_explana_929266_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_light_explana_929266_montreal_helicopter_770271": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_light_explana_929266_planets_fireballs_qu_6b8d4b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_light_explana_929266_starlink_quebec_skie_f8c7c0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_report_patter_050d5d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_report_patter_050d5d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_report_patter_050d5d_montreal_gatineau_uf_d3a814": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_report_patter_050d5d_quebec_2015_ufo_spik_6b2121": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Quebec_51603e_quebec_report_patter_050d5d_quebec_ufo_insuffici_2d4a6f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_canadian_ufo_records_38130b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_canadian_ufo_records_38130b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_canadian_ufo_records_38130b_rural_sightings_defe_a50f32": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_canadian_ufo_records_38130b_saskatchewan_aviatio_2c902b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_canadian_ufo_records_38130b_saskatchewan_ufo_arc_a7be98": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_langenburg_event_4acb88": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_langenburg_event_4acb88_fuhr_witness_account_b360f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_langenburg_event_4acb88_grass_circles_proof_3d2360": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_langenburg_event_4acb88_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_langenburg_event_4acb88_rcmp_involvement_lim_30d78e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_pilot_report_38d18f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_pilot_report_38d18f_cadors_safety_record_051b2f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_pilot_report_38d18f_high_altitude_light_c9d2b3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_pilot_report_38d18f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_pilot_report_38d18f_jan_2024_triangle_li_1ddac0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_sighting_clu_40b8d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_jackfish_lake_lights_5ebe5f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_prairie_pilot_report_38d18f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_prairie_sighting_clu_40b8d6_saskatoon_regina_hub_e2c245": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_saskatchewan_ufo_exp_312578": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_saskatchewan_ufo_exp_312578_fireball_meteor_repo_56cd72": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_saskatchewan_ufo_exp_312578_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_saskatchewan_ufo_exp_312578_sky_canada_public_ro_8bd35b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Saskatchewan_59faf2_saskatchewan_ufo_exp_312578_starlink_sky_confusi_b317ce": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_klondike_highway_199_77d7f3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_klondike_highway_199_77d7f3_cosmos_reentry_expla_1e7fed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_klondike_highway_199_77d7f3_fox_lake_witnesses_8f274f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_klondike_highway_199_77d7f3_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_klondike_highway_199_77d7f3_pelly_corridor_timel_acee2c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_norad_yukon_2023_43c173": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_norad_yukon_2023_43c173_altitude_flight_risk_22bb7b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_norad_yukon_2023_43c173_hobby_balloon_theory_bddb30": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_norad_yukon_2023_43c173_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_norad_yukon_2023_43c173_yukon_debris_search_266b26": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_northern_sky_explana_5ca616": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_northern_sky_explana_5ca616_aurora_mistaken_obje_54f47f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_northern_sky_explana_5ca616_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_northern_sky_explana_5ca616_satellite_rocket_spi_31b66f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_northern_sky_explana_5ca616_tagish_lake_fireball_140c9b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_tagish_lake_fireball_140c9b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_tagish_lake_fireball_140c9b_booms_trails_0b6c24": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_tagish_lake_fireball_140c9b_frozen_fragments_e7d497": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_tagish_lake_fireball_140c9b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_tagish_lake_fireball_140c9b_instrument_records_69343f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_yukon_ufo_archives_957821": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_yukon_ufo_archives_957821_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_yukon_ufo_archives_957821_old_crow_remote_witn_d47fa1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_yukon_ufo_archives_957821_ufobc_yukon_missing_d5776d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Yukon_581b4d_yukon_ufo_archives_957821_whitehorse_workshop_2908dd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      }
+    }
+  },
+  "shared_pages_compared": 351,
+  "regressions": []
+}

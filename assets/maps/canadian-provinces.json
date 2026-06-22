@@ -1,0 +1,500 @@
+{
+  "kind": "canadian-provinces",
+  "itemType": "province",
+  "mapAsset": "canada.svg",
+  "dataAsset": "canadian-provinces.json",
+  "mapLabel": "UFO and UAP Canadian provinces and territories map",
+  "fallbackSummary": "Open this province or territory file from the map.",
+  "panelCopy": "Use the map to jump into a province or territory file, or browse the full list below.",
+  "items": [
+    {
+      "id": "CA-AB",
+      "iso": "CA-AB",
+      "code": "AB",
+      "province": "Alberta",
+      "mapName": "Alberta",
+      "label": "Alberta",
+      "mapAliases": [
+        "alberta",
+        "ca-ab"
+      ],
+      "title": "What Makes Alberta's UFO Record So Unusual?",
+      "summary": "Alberta’s UFO history is less about one famous “alien” case than about a revealing mix of prairie sky reports, Cold War-era official files, aviation records,...",
+      "url": "what-makes-albertas-ufo-record-so/",
+      "image": "assets/images/Alberta_1dc61b-overview.webp",
+      "pageCount": 21,
+      "region": "Prairie Provinces"
+    },
+    {
+      "id": "CA-BC",
+      "iso": "CA-BC",
+      "code": "BC",
+      "province": "British Columbia",
+      "mapName": "British Columbia",
+      "label": "British Columbia",
+      "mapAliases": [
+        "british columbia",
+        "ca-bc"
+      ],
+      "title": "What Makes British Columbia's UFO Record Stand Out?",
+      "summary": "British Columbia has one of Canada’s richest UFO records, not because it has a single nationally dominant case like Shag Harbour in Nova Scotia or Falcon...",
+      "url": "what-makes-british-columbias-ufo-record/",
+      "image": "assets/images/British_Columbia_2f7c63-overview.webp",
+      "pageCount": 21,
+      "region": "West Coast"
+    },
+    {
+      "id": "CA-NB",
+      "iso": "CA-NB",
+      "code": "NB",
+      "province": "New Brunswick",
+      "mapName": "New Brunswick",
+      "label": "New Brunswick",
+      "mapAliases": [
+        "new brunswick",
+        "ca-nb"
+      ],
+      "title": "What Really Happened in New Brunswick Skies?",
+      "summary": "New Brunswick has a quieter UFO history than provinces such as Nova Scotia, Manitoba or Quebec, but it is not a blank spot.",
+      "url": "what-really-happened-in-new-brunswick/",
+      "image": "assets/images/New_Brunswick_cd41a9-overview.webp",
+      "pageCount": 21,
+      "region": "Atlantic Canada"
+    },
+    {
+      "id": "CA-NL",
+      "iso": "CA-NL",
+      "code": "NL",
+      "province": "Newfoundland and Labrador",
+      "mapName": "Newfoundland and Labrador",
+      "label": "Newfoundland and Labrador",
+      "mapAliases": [
+        "newfoundland and labrador",
+        "newfoundland",
+        "labrador",
+        "ca-nl"
+      ],
+      "title": "What Really Happened in Newfoundland's UFO Cases?",
+      "summary": "Newfoundland and Labrador’s UFO history is unusually tied to aviation, policing, military geography and coastal visibility.",
+      "url": "newfoundland-and-labrador/",
+      "image": "assets/images/Newfoundland_and_Lab_16bd11-overview.webp",
+      "pageCount": 21,
+      "region": "Atlantic Canada"
+    },
+    {
+      "id": "CA-NT",
+      "iso": "CA-NT",
+      "code": "NT",
+      "province": "Northwest Territories",
+      "mapName": "Northwest Territories",
+      "label": "Northwest Territories",
+      "mapAliases": [
+        "northwest territories",
+        "northwest territory",
+        "ca-nt",
+        "nwt"
+      ],
+      "title": "What Really Happened in Northern UFO Reports?",
+      "summary": "The UFO history of the Northwest Territories is not a story of many famous “classic” cases.",
+      "url": "northwest-territories/",
+      "image": "assets/images/Northwest_Territorie_386265-overview.webp",
+      "pageCount": 21,
+      "region": "Northern Canada"
+    },
+    {
+      "id": "CA-NS",
+      "iso": "CA-NS",
+      "code": "NS",
+      "province": "Nova Scotia",
+      "mapName": "Nova Scotia",
+      "label": "Nova Scotia",
+      "mapAliases": [
+        "nova scotia",
+        "ca-ns"
+      ],
+      "title": "What Really Happened in Nova Scotia's UFO Stories?",
+      "summary": "Nova Scotia’s UFO history is dominated by one case: the Shag Harbour incident of 4 October 1967, when witnesses in a small South Shore fishing community...",
+      "url": "what-really-happened-in-nova-scotias-ufo/",
+      "image": "assets/images/Nova_Scotia_117534-overview.webp",
+      "pageCount": 21,
+      "region": "Atlantic Canada"
+    },
+    {
+      "id": "CA-PE",
+      "iso": "CA-PE",
+      "code": "PE",
+      "province": "Prince Edward Island",
+      "mapName": "Prince Edward Island",
+      "label": "Prince Edward Island",
+      "mapAliases": [
+        "prince edward island",
+        "ca-pe",
+        "p e i",
+        "pei"
+      ],
+      "title": "What Really Happened in PEI's UFO Stories?",
+      "summary": "Prince Edward Island has a small but surprisingly useful place in Canadian UFO history.",
+      "url": "prince-edward-island/",
+      "image": "assets/images/Prince_Edward_Island_9d3219-overview.webp",
+      "pageCount": 21,
+      "region": "Atlantic Canada"
+    },
+    {
+      "id": "CA-QC",
+      "iso": "CA-QC",
+      "code": "QC",
+      "province": "Quebec",
+      "mapName": "Quebec",
+      "label": "Quebec",
+      "mapAliases": [
+        "quebec",
+        "ca-qc"
+      ],
+      "title": "What Really Happened in Quebec's UFO Files?",
+      "summary": "Quebec’s UFO history is dominated by one case: the 7 November 1990 sighting above Montreal’s Hotel Bonaventure, when hotel guests, staff and later...",
+      "url": "what-really-happened-in-quebecs-ufo/",
+      "image": "assets/images/Quebec_51603e-overview.webp",
+      "pageCount": 21,
+      "region": "Central Canada"
+    },
+    {
+      "id": "CA-SK",
+      "iso": "CA-SK",
+      "code": "SK",
+      "province": "Saskatchewan",
+      "mapName": "Saskatchewan",
+      "label": "Saskatchewan",
+      "mapAliases": [
+        "saskatchewan",
+        "ca-sk"
+      ],
+      "title": "What Really Happened in Saskatchewan's UFO Files?",
+      "summary": "Saskatchewan’s UFO history is not built around dozens of famous cases.",
+      "url": "what-really-happened-in-saskatchewans/",
+      "image": "assets/images/Saskatchewan_59faf2-overview.webp",
+      "pageCount": 21,
+      "region": "Prairie Provinces"
+    },
+    {
+      "id": "CA-YT",
+      "iso": "CA-YT",
+      "code": "YT",
+      "province": "Yukon",
+      "mapName": "Yukon",
+      "label": "Yukon",
+      "mapAliases": [
+        "yukon territory",
+        "ca-yt",
+        "yukon"
+      ],
+      "title": "What Really Happened in Yukon's Skies?",
+      "summary": "Yukon’s UFO history is not built around one tidy “classic case”.",
+      "url": "what-really-happened-in-yukons-skies/",
+      "image": "assets/images/Yukon_581b4d-overview.webp",
+      "pageCount": 21,
+      "region": "Northern Canada"
+    },
+    {
+      "id": "CA-NU",
+      "iso": "CA-NU",
+      "code": "NU",
+      "province": "Nunavut",
+      "mapName": "Nunavut",
+      "label": "Nunavut",
+      "mapAliases": [
+        "nunavut",
+        "ca-nu"
+      ],
+      "title": "What Really Shows Up Over Nunavut?",
+      "summary": "Nunavut’s UFO history is not built around a famous crash story or a long list of dramatic close encounters.",
+      "url": "what-really-shows-up-over-nunavut/",
+      "image": "assets/images/Nunavut_1ecc65-overview.webp",
+      "pageCount": 21,
+      "region": "Northern Canada"
+    },
+    {
+      "id": "CA-MB",
+      "iso": "CA-MB",
+      "code": "MB",
+      "province": "Manitoba",
+      "mapName": "Manitoba",
+      "label": "Manitoba",
+      "mapAliases": [
+        "manitoba",
+        "ca-mb"
+      ],
+      "title": "Why Manitoba Matters In Canadian UFO History",
+      "summary": "Manitoba occupies an unusually important place in Canadian UFO history for two reasons.",
+      "url": "why-manitoba-matters-in-canadian-ufo/",
+      "image": "assets/images/Manitoba_c1a386-overview.webp",
+      "pageCount": 21,
+      "region": "Prairie Provinces"
+    },
+    {
+      "id": "CA-ON",
+      "iso": "CA-ON",
+      "code": "ON",
+      "province": "Ontario",
+      "mapName": "Ontario",
+      "label": "Ontario",
+      "mapAliases": [
+        "ontario",
+        "ca-on"
+      ],
+      "title": "Why Ontario Matters In Canadian UFO History",
+      "summary": "Ontario matters in Canadian UFO history for two reasons.",
+      "url": "why-ontario-matters-in-canadian-ufo/",
+      "image": "assets/images/Ontario_f9f742-overview.webp",
+      "pageCount": 21,
+      "region": "Central Canada"
+    }
+  ],
+  "provinces": [
+    {
+      "id": "CA-AB",
+      "iso": "CA-AB",
+      "code": "AB",
+      "province": "Alberta",
+      "mapName": "Alberta",
+      "label": "Alberta",
+      "mapAliases": [
+        "alberta",
+        "ca-ab"
+      ],
+      "title": "What Makes Alberta's UFO Record So Unusual?",
+      "summary": "Alberta’s UFO history is less about one famous “alien” case than about a revealing mix of prairie sky reports, Cold War-era official files, aviation records,...",
+      "url": "what-makes-albertas-ufo-record-so/",
+      "image": "assets/images/Alberta_1dc61b-overview.webp",
+      "pageCount": 21,
+      "region": "Prairie Provinces"
+    },
+    {
+      "id": "CA-BC",
+      "iso": "CA-BC",
+      "code": "BC",
+      "province": "British Columbia",
+      "mapName": "British Columbia",
+      "label": "British Columbia",
+      "mapAliases": [
+        "british columbia",
+        "ca-bc"
+      ],
+      "title": "What Makes British Columbia's UFO Record Stand Out?",
+      "summary": "British Columbia has one of Canada’s richest UFO records, not because it has a single nationally dominant case like Shag Harbour in Nova Scotia or Falcon...",
+      "url": "what-makes-british-columbias-ufo-record/",
+      "image": "assets/images/British_Columbia_2f7c63-overview.webp",
+      "pageCount": 21,
+      "region": "West Coast"
+    },
+    {
+      "id": "CA-NB",
+      "iso": "CA-NB",
+      "code": "NB",
+      "province": "New Brunswick",
+      "mapName": "New Brunswick",
+      "label": "New Brunswick",
+      "mapAliases": [
+        "new brunswick",
+        "ca-nb"
+      ],
+      "title": "What Really Happened in New Brunswick Skies?",
+      "summary": "New Brunswick has a quieter UFO history than provinces such as Nova Scotia, Manitoba or Quebec, but it is not a blank spot.",
+      "url": "what-really-happened-in-new-brunswick/",
+      "image": "assets/images/New_Brunswick_cd41a9-overview.webp",
+      "pageCount": 21,
+      "region": "Atlantic Canada"
+    },
+    {
+      "id": "CA-NL",
+      "iso": "CA-NL",
+      "code": "NL",
+      "province": "Newfoundland and Labrador",
+      "mapName": "Newfoundland and Labrador",
+      "label": "Newfoundland and Labrador",
+      "mapAliases": [
+        "newfoundland and labrador",
+        "newfoundland",
+        "labrador",
+        "ca-nl"
+      ],
+      "title": "What Really Happened in Newfoundland's UFO Cases?",
+      "summary": "Newfoundland and Labrador’s UFO history is unusually tied to aviation, policing, military geography and coastal visibility.",
+      "url": "newfoundland-and-labrador/",
+      "image": "assets/images/Newfoundland_and_Lab_16bd11-overview.webp",
+      "pageCount": 21,
+      "region": "Atlantic Canada"
+    },
+    {
+      "id": "CA-NT",
+      "iso": "CA-NT",
+      "code": "NT",
+      "province": "Northwest Territories",
+      "mapName": "Northwest Territories",
+      "label": "Northwest Territories",
+      "mapAliases": [
+        "northwest territories",
+        "northwest territory",
+        "ca-nt",
+        "nwt"
+      ],
+      "title": "What Really Happened in Northern UFO Reports?",
+      "summary": "The UFO history of the Northwest Territories is not a story of many famous “classic” cases.",
+      "url": "northwest-territories/",
+      "image": "assets/images/Northwest_Territorie_386265-overview.webp",
+      "pageCount": 21,
+      "region": "Northern Canada"
+    },
+    {
+      "id": "CA-NS",
+      "iso": "CA-NS",
+      "code": "NS",
+      "province": "Nova Scotia",
+      "mapName": "Nova Scotia",
+      "label": "Nova Scotia",
+      "mapAliases": [
+        "nova scotia",
+        "ca-ns"
+      ],
+      "title": "What Really Happened in Nova Scotia's UFO Stories?",
+      "summary": "Nova Scotia’s UFO history is dominated by one case: the Shag Harbour incident of 4 October 1967, when witnesses in a small South Shore fishing community...",
+      "url": "what-really-happened-in-nova-scotias-ufo/",
+      "image": "assets/images/Nova_Scotia_117534-overview.webp",
+      "pageCount": 21,
+      "region": "Atlantic Canada"
+    },
+    {
+      "id": "CA-PE",
+      "iso": "CA-PE",
+      "code": "PE",
+      "province": "Prince Edward Island",
+      "mapName": "Prince Edward Island",
+      "label": "Prince Edward Island",
+      "mapAliases": [
+        "prince edward island",
+        "ca-pe",
+        "p e i",
+        "pei"
+      ],
+      "title": "What Really Happened in PEI's UFO Stories?",
+      "summary": "Prince Edward Island has a small but surprisingly useful place in Canadian UFO history.",
+      "url": "prince-edward-island/",
+      "image": "assets/images/Prince_Edward_Island_9d3219-overview.webp",
+      "pageCount": 21,
+      "region": "Atlantic Canada"
+    },
+    {
+      "id": "CA-QC",
+      "iso": "CA-QC",
+      "code": "QC",
+      "province": "Quebec",
+      "mapName": "Quebec",
+      "label": "Quebec",
+      "mapAliases": [
+        "quebec",
+        "ca-qc"
+      ],
+      "title": "What Really Happened in Quebec's UFO Files?",
+      "summary": "Quebec’s UFO history is dominated by one case: the 7 November 1990 sighting above Montreal’s Hotel Bonaventure, when hotel guests, staff and later...",
+      "url": "what-really-happened-in-quebecs-ufo/",
+      "image": "assets/images/Quebec_51603e-overview.webp",
+      "pageCount": 21,
+      "region": "Central Canada"
+    },
+    {
+      "id": "CA-SK",
+      "iso": "CA-SK",
+      "code": "SK",
+      "province": "Saskatchewan",
+      "mapName": "Saskatchewan",
+      "label": "Saskatchewan",
+      "mapAliases": [
+        "saskatchewan",
+        "ca-sk"
+      ],
+      "title": "What Really Happened in Saskatchewan's UFO Files?",
+      "summary": "Saskatchewan’s UFO history is not built around dozens of famous cases.",
+      "url": "what-really-happened-in-saskatchewans/",
+      "image": "assets/images/Saskatchewan_59faf2-overview.webp",
+      "pageCount": 21,
+      "region": "Prairie Provinces"
+    },
+    {
+      "id": "CA-YT",
+      "iso": "CA-YT",
+      "code": "YT",
+      "province": "Yukon",
+      "mapName": "Yukon",
+      "label": "Yukon",
+      "mapAliases": [
+        "yukon territory",
+        "ca-yt",
+        "yukon"
+      ],
+      "title": "What Really Happened in Yukon's Skies?",
+      "summary": "Yukon’s UFO history is not built around one tidy “classic case”.",
+      "url": "what-really-happened-in-yukons-skies/",
+      "image": "assets/images/Yukon_581b4d-overview.webp",
+      "pageCount": 21,
+      "region": "Northern Canada"
+    },
+    {
+      "id": "CA-NU",
+      "iso": "CA-NU",
+      "code": "NU",
+      "province": "Nunavut",
+      "mapName": "Nunavut",
+      "label": "Nunavut",
+      "mapAliases": [
+        "nunavut",
+        "ca-nu"
+      ],
+      "title": "What Really Shows Up Over Nunavut?",
+      "summary": "Nunavut’s UFO history is not built around a famous crash story or a long list of dramatic close encounters.",
+      "url": "what-really-shows-up-over-nunavut/",
+      "image": "assets/images/Nunavut_1ecc65-overview.webp",
+      "pageCount": 21,
+      "region": "Northern Canada"
+    },
+    {
+      "id": "CA-MB",
+      "iso": "CA-MB",
+      "code": "MB",
+      "province": "Manitoba",
+      "mapName": "Manitoba",
+      "label": "Manitoba",
+      "mapAliases": [
+        "manitoba",
+        "ca-mb"
+      ],
+      "title": "Why Manitoba Matters In Canadian UFO History",
+      "summary": "Manitoba occupies an unusually important place in Canadian UFO history for two reasons.",
+      "url": "why-manitoba-matters-in-canadian-ufo/",
+      "image": "assets/images/Manitoba_c1a386-overview.webp",
+      "pageCount": 21,
+      "region": "Prairie Provinces"
+    },
+    {
+      "id": "CA-ON",
+      "iso": "CA-ON",
+      "code": "ON",
+      "province": "Ontario",
+      "mapName": "Ontario",
+      "label": "Ontario",
+      "mapAliases": [
+        "ontario",
+        "ca-on"
+      ],
+      "title": "Why Ontario Matters In Canadian UFO History",
+      "summary": "Ontario matters in Canadian UFO history for two reasons.",
+      "url": "why-ontario-matters-in-canadian-ufo/",
+      "image": "assets/images/Ontario_f9f742-overview.webp",
+      "pageCount": 21,
+      "region": "Central Canada"
+    }
+  ],
+  "matchedCount": 13,
+  "totalTopTopics": 13,
+  "source": "Generated from Stage 3 Canadian collection pages; CC0 base SVG from MapSVG.",
+  "sourceUrl": "https://mapsvg.com/maps/canada",
+  "license": "CC0 1.0 Universal"
+}
