@@ -186,7 +186,7 @@ site_image_description: A quiet Alberta prairie field at dusk with faint circula
       </span>
       <span class="interactive-map-preview-kicker uap-world-map-preview-kicker">Alberta</span>
       <strong data-interactive-map-preview-title data-uap-world-map-preview-title>What Makes Alberta&#x27;s UFO Record So Unusual?</strong>
-      <span data-interactive-map-preview-summary data-uap-world-map-preview-summary>Albertaâ€™s UFO history is less about one famous â€œalienâ€ case than about a revealing mix of prairie sky reports, Cold War-era official files, aviation records,...</span>
+      <span data-interactive-map-preview-summary data-uap-world-map-preview-summary>Alberta’s UFO history is less about one famous “alien” case than about a revealing mix of prairie sky reports, Cold War-era official files, aviation records,...</span>
       <span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>
     </article>
   </section>
