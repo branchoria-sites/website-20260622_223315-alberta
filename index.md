@@ -175,7 +175,7 @@ site_image_description: A quiet Alberta prairie field at dusk with faint circula
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-  <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="province" data-map-layout="canada" data-map-item-type="province" data-map-label="UFO and UAP Canadian provinces and territories map" data-map-fallback-summary="Open this province or territory file from the map." data-map-src="{{ 'assets/maps/canada.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/canadian-provinces.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="CA-AB" data-map-preview-preload="all">
+  <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="province" data-map-layout="canada" data-map-item-type="province" data-map-label="UFO and UAP Canadian provinces and territories map" data-map-fallback-summary="Open this province or territory file from the map." data-map-src="{{ 'assets/maps/canada.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/canadian-provinces.json' | relative_url }}" data-map-initial-item="CA-ON" data-map-preview-preload="all">
     <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
     <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
       <img src="{{ '/assets/images/Alberta_1dc61b-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
@@ -186,7 +186,7 @@ site_image_description: A quiet Alberta prairie field at dusk with faint circula
       </span>
       <span class="interactive-map-preview-kicker uap-world-map-preview-kicker">Alberta</span>
       <strong data-interactive-map-preview-title data-uap-world-map-preview-title>What Makes Alberta&#x27;s UFO Record So Unusual?</strong>
-      <span data-interactive-map-preview-summary data-uap-world-map-preview-summary>Alberta’s UFO history is less about one famous “alien” case than about a revealing mix of prairie sky reports, Cold War-era official files, aviation records,...</span>
+      <span data-interactive-map-preview-summary data-uap-world-map-preview-summary>Albertaâ€™s UFO history is less about one famous â€œalienâ€ case than about a revealing mix of prairie sky reports, Cold War-era official files, aviation records,...</span>
       <span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>
     </article>
   </section>
@@ -194,4 +194,3 @@ site_image_description: A quiet Alberta prairie field at dusk with faint circula
   <p class="home-map-panel-source"><a href="https://mapsvg.com/maps/canada" rel="license noopener" target="_blank">Map source (CC0 1.0 Universal)</a></p>
   <p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
 </section>
-
