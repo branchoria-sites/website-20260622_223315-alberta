@@ -9913,12 +9913,14 @@
           }
         }
         if (root.getAttribute('data-map-layout') === 'canada') {
-          var canadaTopCrop = height * 0.12;
-          bounds.top += canadaTopCrop;
-          height -= canadaTopCrop;
-          var canadaShiftDown = height * 0.05;
-          bounds.top += canadaShiftDown;
-          bounds.bottom += canadaShiftDown;
+          // The source Canada SVG is dominated by far-northern islands.  After
+          // fitting the linked province/territory bounds, trim a little of that
+          // northern extent so the reset/initial view reads as Canada rather
+          // than as an Arctic close-up.  Keep the crop modest: territories
+          // should remain visible and clickable in the overview.
+          var canadaNorthernTrim = height * 0.10;
+          bounds.top += canadaNorthernTrim;
+          height -= canadaNorthernTrim;
         }
         var pad = Math.max(width, height) * 0.035;
         svg.setAttribute(
